@@ -1,4 +1,4 @@
-package assignment3;
+package ex42;
 
 import static org.junit.Assert.assertTrue;
 
